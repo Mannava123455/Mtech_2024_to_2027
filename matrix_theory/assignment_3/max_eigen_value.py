@@ -15,7 +15,7 @@ The power method for calculating the smallest eigenvalue/vector
 pair of a square symmetric matrix 𝐴 is described as follows:
 i.   Initialize: set the vector x0 to an arbitrary value.
 ii.  For i =1, 2, 3, . . .
-iii. xi+1=Axi/|| Axi||2
+iii. xi+1=A^-1 xi/|| Axi||2
 
 
 
