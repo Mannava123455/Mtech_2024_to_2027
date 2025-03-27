@@ -197,7 +197,7 @@ module fir_filter (
 
     always @(posedge clk) 
     begin
-    for (k =N-1; k > 0; k = k - 1) 
+    for (k = N-1; k > 0; k = k - 1) 
     begin
         shift_reg[k] <= shift_reg[k-1];
     end

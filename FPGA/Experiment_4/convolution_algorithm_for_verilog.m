@@ -16,6 +16,7 @@ for n = 1:N+M-1
     if(n <= N)
         shift_reg(1) = x(n);
     end
+    
  
 
     buffer(1) = shift_reg(1) * h(1);

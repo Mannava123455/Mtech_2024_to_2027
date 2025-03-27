@@ -1,4 +1,5 @@
 module fir_filter_tb;
+
     reg clk;
     reg rst;
     reg signed [15:0] x;
@@ -62,7 +63,6 @@ module fir_filter_tb;
 		count=count+1; 
 	end
 end
-
 
 
 endmodule
