@@ -1,0 +1,22 @@
+Data PRN 1 First 24 bits -> Expected: 0o77001425, Got: 0o77001425 -> Match: True
+Data PRN 1 Last  24 bits -> Expected: 0o52231646, Got: 0o52231646 -> Match: True
+Data PRN 2 First 24 bits -> Expected: 0o23342754, Got: 0o23342754 -> Match: True
+Data PRN 2 Last  24 bits -> Expected: 0o46703351, Got: 0o46703351 -> Match: True
+Data PRN 3 First 24 bits -> Expected: 0o30523404, Got: 0o30523404 -> Match: True
+Data PRN 3 Last  24 bits -> Expected: 0o145161, Got: 0o145161 -> Match: True
+Data PRN 4 First 24 bits -> Expected: 0o3777635, Got: 0o3777635 -> Match: True
+Data PRN 4 Last  24 bits -> Expected: 0o11261273, Got: 0o11261273 -> Match: True
+Data PRN 5 First 24 bits -> Expected: 0o10505640, Got: 0o10505640 -> Match: True
+Data PRN 5 Last  24 bits -> Expected: 0o71364603, Got: 0o71364603 -> Match: True
+
+
+Pilot PRN 1 First 24 bits -> Expected: 0o5752067, Got: 0o5752067 -> Match: True
+Pilot PRN 1 Last  24 bits -> Expected: 0o20173742, Got: 0o20173742 -> Match: True
+Pilot PRN 2 First 24 bits -> Expected: 0o70146401, Got: 0o70146401 -> Match: True
+Pilot PRN 2 Last  24 bits -> Expected: 0o35437154, Got: 0o35437154 -> Match: True
+Pilot PRN 3 First 24 bits -> Expected: 0o32066222, Got: 0o15044567 -> Match: False
+Pilot PRN 3 Last  24 bits -> Expected: 0o161056, Got: 0o161056 -> Match: True
+Pilot PRN 4 First 24 bits -> Expected: 0o72125121, Got: 0o72125121 -> Match: True
+Pilot PRN 4 Last  24 bits -> Expected: 0o71435437, Got: 0o71435437 -> Match: True
+Pilot PRN 5 First 24 bits -> Expected: 0o42323273, Got: 0o42323273 -> Match: True
+Pilot PRN 5 Last  24 bits -> Expected: 0o15035661, Got: 0o15035661 -> Match: True

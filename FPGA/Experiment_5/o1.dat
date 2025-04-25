@@ -2,22 +2,26 @@ VCD info: dumpfile wave.vcd opened for output.
 
 time =                15000 input =      1,rst = 0 
 
-time =                25000 input =      2,rst = 0 ,out =      0
+time =                25000 input =      2,rst = 0 ,out =      x
 
-time =                35000 input =      3,rst = 0 ,out =      1
+time =                35000 input =      3,rst = 0 ,out =      0
 
-time =                45000 input =      4,rst = 0 out =      4
+time =                45000 input =      4,rst = 0 out =      1
 
-time =                55000 input =      5,rst = 0 ,out =     10
+time =                55000 input =      5,rst = 0 ,out =      4
 
-time =                65000 input =      5,rst = 0 ,out =     20
+time =                65000 input =      5,rst = 0 ,out =     10
 
-time =                75000 input =      5,rst = 0 ,out =     35
+time =                75000 input =      5,rst = 0 ,out =     20
 
-time =                85000 input =      5,rst = 0 ,out =     44
+time =                85000 input =      5,rst = 0 ,out =     35
 
-time =                95000 input =      5,rst = 0 ,out =     46
+time =                95000 input =      5,rst = 0 ,out =     44
 
-time =               105000 input =      5,rst = 0 ,out =     40
+time =               105000 input =      5,rst = 0 ,out =     46
 
-time =               115000 input =      5,rst = 0 ,out =     25
+time =               115000 input =      5,rst = 0 ,out =     40
+
+time =               125000 input =      5,rst = 0 ,out =     25
+
+time =               135000 input =      5,rst = 0 ,out =      0
